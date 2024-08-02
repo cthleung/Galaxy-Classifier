@@ -29,12 +29,6 @@ The project utilizes the following machine learning algorithms for galaxy classi
 
 The performance of the models is evaluated using metrics such as accuracy, precision, and recall. Additionally, confusion matrices are generated to visualize the model's performance on both training and testing sets.
 
-## Results
-The models demonstrate promising results, with the Random Forest Classifier outperforming the Decision Tree Classifier in terms of accuracy, precision, and recall. Further details on the performance metrics can be found in the Jupyter Notebook.
-
-## Conclusion
-The project successfully demonstrates the application of machine learning algorithms in classifying galaxies based on their features. The models can be further improved with better preprocessing techniques, feature selection, and hyperparameter tuning. Additionally, computational time and other performance metrics can be further explored to enhance the model's efficiency.
-
 ## How to Run
 1. Clone the repository to your local machine.
 2. Ensure you have Python 3.x and the required libraries (numpy, pandas, scikit-learn, and matplotlib) installed.
